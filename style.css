@@ -22,6 +22,7 @@ body{
     background-color: #18181F;
 }
 
+
 /* ============= HEADER ============= */
 header{
     height: 100px;
@@ -245,24 +246,67 @@ header{
 /* ----- main anime ---- */
 #mainAnime{
     height: 500px;
-    width: 90%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: relative;
+    width: 1300px;
     border-radius: 10px;
+    position: relative;
     overflow: hidden;
-    
 }
 
-#mainAnime img{
+#containerImagesBanner{
     height: 100%;
-    width: 100%;
+    width: calc(1300px * 4);
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.containerCardBanner{
+    height: 100%;
+    width: 1300px;
     display: flex;
     justify-content: center;
     align-items: center;
-    object-fit: cover;
-    
+    flex-direction: column;
+    position: relative;
+    overflow: hidden;
+}
+
+#containerImagesBanner img{
+    height: 100%;
+    width: 1300px;
+    object-fit: cover;   
+}
+
+#imgActive{
+    transition: all 0.5s;
+}
+
+/* ===== balls===== */
+.balls{
+    position: absolute;
+    width: 1300px;
+    display: flex;
+    justify-content: center;
+    margin-top: -40px;
+}
+
+.balls div{
+   transition: all 0.5s;
+   border: 1px solid #fff;
+   padding: 8px;
+   border-radius: 50%;
+   margin-right: 15px;
+   cursor: pointer;
+}
+
+.balls div:hover{
+   background-color: #fff;
+
+}
+
+.ballActive{
+    transition: all 0.5s;
+    background-color: #fff;
 }
 
 #infoMainAnime{

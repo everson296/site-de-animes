@@ -875,7 +875,7 @@ const dataAssistidos = [
         "studio": 'studio',
         "anoInicio": 'anoInicial',
         "anoFim": 'anoFinal',
-        "totalEps": 'totalEpisodio',
+        "totalEps": '12',
         "genero": 'aaa, aaa, aaa, aaa, aaa'
     },
 
@@ -886,7 +886,18 @@ const dataAssistidos = [
         "studio": 'studio',
         "anoInicio": 'anoInicial',
         "anoFim": 'anoFinal',
-        "totalEps": 'totalEpisodio',
+        "totalEps": '12',
+        "genero": 'aaa, aaa, aaa, aaa, aaa'
+    },
+
+    {
+        "id": '18',
+        "img": 'solo_leveling.jpg',
+        "name": 'solo leveling',
+        "studio": 'studio',
+        "anoInicio": 'anoInicial',
+        "anoFim": 'anoFinal',
+        "totalEps": '12',
         "genero": 'aaa, aaa, aaa, aaa, aaa'
     },
 
@@ -1080,7 +1091,6 @@ const dataAssistidos = [
 
 const dataAssistirDepois = [
     {
-        "id": '1',
         "img": 'Another.jpe',
         "name": 'Another',
         "studio": 'studio',
@@ -1089,9 +1099,7 @@ const dataAssistirDepois = [
         "totalEps": 'totalEpisodio',
         "genero": 'aaa, aaa, aaa, aaa, aaa'
     },
-    
     {
-        "id": '2',
         "img": 'Blood_C_2.webp',
         "name": 'Blood-C season 2',
         "studio": 'studio',
@@ -1100,9 +1108,7 @@ const dataAssistirDepois = [
         "totalEps": 'totalEpisodio',
         "genero": 'aaa, aaa, aaa, aaa, aaa'
     },
-    
     {
-        "id": '3',
         "img": 'Charlotte.jpg',
         "name": 'Charlotte',
         "studio": 'studio',
@@ -1111,9 +1117,7 @@ const dataAssistirDepois = [
         "totalEps": 'totalEpisodio',
         "genero": 'aaa, aaa, aaa, aaa, aaa'
     },
-    
     {
-        "id": '4',
         "img": 'croos_angel.jpg',
         "name": 'croos angel',
         "studio": 'studio',
@@ -1122,9 +1126,7 @@ const dataAssistirDepois = [
         "totalEps": 'totalEpisodio',
         "genero": 'aaa, aaa, aaa, aaa, aaa'
     },
-    
     {
-        "id": '5',
         "img": 'gokushufudou_2.jpg',
         "name": 'gokushufudou season 2',
         "studio": 'studio',
@@ -1133,9 +1135,7 @@ const dataAssistirDepois = [
         "totalEps": 'totalEpisodio',
         "genero": 'aaa, aaa, aaa, aaa, aaa'
     },
-    
     {
-        "id": '6',
         "img": 'golden_time.jpg',
         "name": 'golden time',
         "studio": 'studio',
@@ -1144,9 +1144,7 @@ const dataAssistirDepois = [
         "totalEps": 'totalEpisodio',
         "genero": 'aaa, aaa, aaa, aaa, aaa'
     },
-    
     {
-        "id": '7',
         "img": 'Kiseiju.jpg',
         "name": 'Kiseiju',
         "studio": 'studio',
@@ -1155,9 +1153,7 @@ const dataAssistirDepois = [
         "totalEps": 'totalEpisodio',
         "genero": 'aaa, aaa, aaa, aaa, aaa'
     },
-    
     {
-        "id": '8',
         "img": 'Made_in_Abyss_2.jpg',
         "name": 'Made in Abyss season 2',
         "studio": 'studio',
@@ -1166,9 +1162,7 @@ const dataAssistirDepois = [
         "totalEps": 'totalEpisodio',
         "genero": 'aaa, aaa, aaa, aaa, aaa'
     },
-    
     {
-        "id": '9',
         "img": 'masamune_kun_revenge.jpe',
         "name": 'masamune kun revenge',
         "studio": 'studio',
@@ -1177,9 +1171,7 @@ const dataAssistirDepois = [
         "totalEps": 'totalEpisodio',
         "genero": 'aaa, aaa, aaa, aaa, aaa'
     },
-    
     {
-        "id": '10',
         "img": 'mob_psycho_2.webp',
         "name": 'mob psycho season 2',
         "studio": 'studio',
@@ -1188,9 +1180,7 @@ const dataAssistirDepois = [
         "totalEps": 'totalEpisodio',
         "genero": 'aaa, aaa, aaa, aaa, aaa'
     },
-    
     {
-        "id": '11',
         "img": 'mob_psycho_3.png',
         "name": 'mob psycho season 3',
         "studio": 'studio',
@@ -1199,9 +1189,7 @@ const dataAssistirDepois = [
         "totalEps": 'totalEpisodio',
         "genero": 'aaa, aaa, aaa, aaa, aaa'
     },
-    
     {
-        "id": '12',
         "img": 'Mushoku_Tensei.jpe',
         "name": 'Mushoku Tensei',
         "studio": 'studio',
@@ -1210,9 +1198,7 @@ const dataAssistirDepois = [
         "totalEps": 'totalEpisodio',
         "genero": 'aaa, aaa, aaa, aaa, aaa'
     },
-    
     {
-        "id": '13',
         "img": 're_zero_2.jpg',
         "name": 're zero season 2',
         "studio": 'studio',
@@ -1221,9 +1207,7 @@ const dataAssistirDepois = [
         "totalEps": 'totalEpisodio',
         "genero": 'aaa, aaa, aaa, aaa, aaa'
     },
-    
     {
-        "id": '14',
         "img": 're_zero_3.jpg',
         "name": 're zero season 3',
         "studio": 'studio',
@@ -1232,9 +1216,7 @@ const dataAssistirDepois = [
         "totalEps": 'totalEpisodio',
         "genero": 'aaa, aaa, aaa, aaa, aaa'
     },
-    
     {
-        "id": '15',
         "img": 'Shigatsu_wa_Kimi_no_Uso.jpg',
         "name": 'Shigatsu wa Kimi no Uso',
         "studio": 'studio',
@@ -1243,9 +1225,7 @@ const dataAssistirDepois = [
         "totalEps": 'totalEpisodio',
         "genero": 'aaa, aaa, aaa, aaa, aaa'
     },
-    
     {
-        "id": '16',
         "img": 'shinmai_maou_no_testament_2.webp',
         "name": 'shinmai maou no testament season 2',
         "studio": 'studio',
@@ -1254,9 +1234,7 @@ const dataAssistirDepois = [
         "totalEps": 'totalEpisodio',
         "genero": 'aaa, aaa, aaa, aaa, aaa'
     },
-    
     {
-        "id": '17',
         "img": 'shinmai_maou_no_testament_3.jpg',
         "name": 'shinmai maou no testament season 3',
         "studio": 'studio',
@@ -1265,20 +1243,7 @@ const dataAssistirDepois = [
         "totalEps": 'totalEpisodio',
         "genero": 'aaa, aaa, aaa, aaa, aaa'
     },
-    
     {
-        "id": '18',
-        "img": 'solo_leveling.jpg',
-        "name": 'solo leveling',
-        "studio": 'studio',
-        "anoInicio": 'anoInicial',
-        "anoFim": 'anoFinal',
-        "totalEps": 'totalEpisodio',
-        "genero": 'aaa, aaa, aaa, aaa, aaa'
-    },
-    
-    {
-        "id": '19',
         "img": 'Tanya_The_Evil.jpe',
         "name": 'Tanya The Evil',
         "studio": 'studio',
@@ -1286,31 +1251,16 @@ const dataAssistirDepois = [
         "anoFim": 'anoFinal',
         "totalEps": 'totalEpisodio',
         "genero": 'aaa, aaa, aaa, aaa, aaa'
-    }
-    
-];
-
-const dataAssistindo = [
+    },
     {
-        "img": 'one_piece.webp',
-        "name": 'one piece',
+        "img": 'spy_x_family_3.jpg',
+        "name": 'spy x family 3',
         "studio": 'studio',
         "anoInicio": 'anoInicial',
         "anoFim": 'anoFinal',
-        "totalEps": '1085',
+        "totalEps": '1',
         "genero": 'aaa, aaa, aaa, aaa, aaa'
     },
-
-    {
-        "img": 'qwaser_1.webp',
-        "name": 'qwaser season 1',
-        "studio": 'studio',
-        "anoInicio": 'anoInicial',
-        "anoFim": 'anoFinal',
-        "totalEps": '20',
-        "genero": 'aaa, aaa, aaa, aaa, aaa'
-    },
-
     {
         "img": 'qwaser_2.webp',
         "name": 'qwaser season 2',
@@ -1320,37 +1270,57 @@ const dataAssistindo = [
         "totalEps": '1',
         "genero": 'aaa, aaa, aaa, aaa, aaa'
     },
+    
+];
+
+const dataAssistindo = [
+    {
+        "img": 'kimetsu_no_yaba_final.jpg',
+        "name": 'kimetsu no yaiba',
+        "totalEps": '1',
+    },
+    {
+        "img": 'one_piece.webp',
+        "name": 'one piece',
+        "totalEps": '1117',
+    },
+    {
+        "img": 'boku_no_hero_7.jpg',
+        "name": 'qwaser season 1',
+        "totalEps": '1',
+    },
+    {
+        "img": 'qwaser_1.webp',
+        "name": 'qwaser season 1',
+        "totalEps": '20',
+    },
 ];
 
 const dataBanner = [
-    {
-        "img": 'boku_no_hero.jpg',
-        "name": 'boku no hero',
-        "season": '6',
-        "episodio": '24', 
-    },
-    
-    {
-        "img": 'qwaser.jpg',
-        "name": 'qwaser',
-        "season": '1',
-        "episodio": '20', 
-    },
-    
-    {
-        "img": 'one_piece.jpg',
-        "name": 'one piece',
-        "season": 'null',
-        "episodio": '1050', 
-    },
-    
     {
         "img": 'kimetsu.jpg',
         "name": 'kimetsu no yaiba',
         "season": '2',
         "episodio": '25',
     },
-    
+    {
+        "img": 'one_piece.png',
+        "name": 'one piece',
+        "season": 'null',
+        "episodio": '1050', 
+    },
+    {
+        "img": 'boku_no_hero.jpg',
+        "name": 'boku no hero',
+        "season": '6',
+        "episodio": '24', 
+    },
+    {
+        "img": 'qwaser.jpg',
+        "name": 'qwaser',
+        "season": '1',
+        "episodio": '20', 
+    },
 ];
 
 const links = document.querySelectorAll('.links')
@@ -1446,7 +1416,6 @@ const loadMaybeWatch = (database) => {
             </div>
         </div>
     `
-    
 }
 
 const loadCardAnime= (database, past) => {
@@ -1498,3 +1467,48 @@ linksTo()
 loadMaybeWatch(dataAssistidos)
 loadCardAnimeAssistindo(dataAssistindo)
 loadCardAnime(dataAssistirDepois, 'assisir_depois');
+
+const balls = document.querySelector('.balls');
+var images = document.querySelectorAll('#containerImagesBanner .containerCardBanner');
+var cont = 0;
+const imageActive = document.getElementById('imgActive');
+let roll = true
+
+for(let i = 0; i < images.length; i++){
+    var div = document.createElement('div');
+    div.id = i;
+    balls.appendChild(div)
+}
+
+document.getElementById('0').classList.add('ballActive')
+
+var position = document.querySelectorAll('.balls div')
+
+for(let i = 0; i < position.length; i++){
+    position[i].addEventListener('click', () => {
+        cont = position[i].id
+        roll = false
+        slide()
+    })
+}
+
+const slide = () => {
+    if(cont >= images.length){
+        cont = 0;
+    }else if(cont < 0){
+        cont = images.length - 1
+    }
+    
+    document.querySelector('.ballActive').classList.remove('ballActive');
+    imageActive.style.marginLeft = -1300 * cont + 'px';
+    document.getElementById(cont).classList.add('ballActive');
+}
+
+setInterval(() => {
+    if(roll){
+        cont++
+        slide()
+    }else{
+        roll = true
+    }
+}, 2000)
